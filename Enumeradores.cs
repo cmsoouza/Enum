@@ -7,6 +7,6 @@ public enum Genero
 
 public class Filme
 {
-    public string Titulo = "";
+    public string Titulo = "olas";
     public Genero GeneroFilme;
 }
