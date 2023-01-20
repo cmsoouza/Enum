@@ -10,5 +10,5 @@ var filmeParaFamilia = new Filme();
 filmeParaFamilia.Titulo = "Drácula";
 filmeParaFamilia.GeneroFilme = Genero.Comedia;
 
-Console.WriteLine(" {0} é {2}!", filmeParaFamilia.Titulo,
+Console.WriteLine(" {0} é {1}!", filmeParaFamilia.Titulo,
 filmeParaFamilia.GeneroFilme);
