@@ -1,0 +1,15 @@
+C:\Users\cmsou\soucer\CSharp2\Enumeradores\bin\Debug\net7.0\Enumeradores.exe
+C:\Users\cmsou\soucer\CSharp2\Enumeradores\bin\Debug\net7.0\Enumeradores.deps.json
+C:\Users\cmsou\soucer\CSharp2\Enumeradores\bin\Debug\net7.0\Enumeradores.runtimeconfig.json
+C:\Users\cmsou\soucer\CSharp2\Enumeradores\bin\Debug\net7.0\Enumeradores.dll
+C:\Users\cmsou\soucer\CSharp2\Enumeradores\bin\Debug\net7.0\Enumeradores.pdb
+C:\Users\cmsou\soucer\CSharp2\Enumeradores\obj\Debug\net7.0\Enumeradores.csproj.AssemblyReference.cache
+C:\Users\cmsou\soucer\CSharp2\Enumeradores\obj\Debug\net7.0\Enumeradores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmsou\soucer\CSharp2\Enumeradores\obj\Debug\net7.0\Enumeradores.AssemblyInfoInputs.cache
+C:\Users\cmsou\soucer\CSharp2\Enumeradores\obj\Debug\net7.0\Enumeradores.AssemblyInfo.cs
+C:\Users\cmsou\soucer\CSharp2\Enumeradores\obj\Debug\net7.0\Enumeradores.csproj.CoreCompileInputs.cache
+C:\Users\cmsou\soucer\CSharp2\Enumeradores\obj\Debug\net7.0\Enumeradores.dll
+C:\Users\cmsou\soucer\CSharp2\Enumeradores\obj\Debug\net7.0\refint\Enumeradores.dll
+C:\Users\cmsou\soucer\CSharp2\Enumeradores\obj\Debug\net7.0\Enumeradores.pdb
+C:\Users\cmsou\soucer\CSharp2\Enumeradores\obj\Debug\net7.0\Enumeradores.genruntimeconfig.cache
+C:\Users\cmsou\soucer\CSharp2\Enumeradores\obj\Debug\net7.0\ref\Enumeradores.dll
